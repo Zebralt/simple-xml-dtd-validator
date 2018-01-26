@@ -6,8 +6,8 @@
 import validator as vd
 
 if __name__ == "__main__":
-    vd.loadTests("tests/test_brackets")
-    vd.loadTests("tests/test_loop")
-    vd.loadTests("tests/test_skip")
-    vd.loadTests("tests/test_loopXskip.txt")
-    vd.loadTests("tests/test_combined")
+    vd.loadTests("../tests/test_brackets")
+    vd.loadTests("../tests/test_loop")
+    vd.loadTests("../tests/test_skip")
+    vd.loadTests("../tests/test_loopXskip.txt")
+    vd.loadTests("../tests/test_combined")
