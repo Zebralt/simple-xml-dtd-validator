@@ -1,6 +1,6 @@
 # DTD Validator for XML 
 
-Jocelyn Vernay, 2017.
+*December 2017*
 
 This is a project I realized during my M2 Data & Knowledge, in the Web Data Models course. The goal was to reproduce the process of DTD validation of a XML document.
 
@@ -17,11 +17,10 @@ XML :
     1 d
     1 a
 
-
-
 DTD : 
 
 	a (bc)*d
 	b _
 	c _
 	d _
+The code is found in the file **validator.py**. To be able to perform DTD validation, there is a small regex engine, whose tests are in **testRegex.py**. 
