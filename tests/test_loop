@@ -1,0 +1,9 @@
+a(bc)+d ad 0
+a(bc)+d abcd 1
+a(bc)+d abcbcd 1
+abc+d abd 0
+abc+d abcd 1
+abc+d abccd 1
+ab+c+d accd 0
+ab+c+d abccd 1
+ab+c+d abbd 0

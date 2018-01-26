@@ -1,0 +1,3 @@
+a(bc)?d? abc 1
+a(bc)?d? ad 1
+a(bc)?d? abd 0

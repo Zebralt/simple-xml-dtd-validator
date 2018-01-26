@@ -1,0 +1,9 @@
+a(bc)*d ad 1
+a(bc)*d abcd 1
+a(bc)*d abcbcd 1
+abc*d abd 1
+abc*d abcd 1
+abc*d abccd 1
+ab*c*d accd 1
+ab*c*d abccd 1
+ab*c*d abbd 1

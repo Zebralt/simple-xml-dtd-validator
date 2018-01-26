@@ -1,0 +1,17 @@
+
+a(bc)*d ad 1
+a(bc)*d abcbcd 1
+a(bc)+ abcbcbc 1
+a(bc)?d? abc 1
+a(bc)?d? ad 1
+a(bc)?d? abd 0
+a*(bc)*d abcbcd 1
+a*(bc)*d d 1
+a*(bc)*d ad 1
+a*(bc)*d bcbcd 1
+a(bc)*d ad 1
+a(bc)*d abcd 1
+a(bc)*d abcbcd 1
+
+
+
